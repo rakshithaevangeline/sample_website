@@ -1,6 +1,11 @@
 .nav-spacing {
   margin: 0 0 0 10px; text-decoration: none;
 }
+
 .nav-menu {
   text-align: right;
+}
+
+.image-link {
+  text-decoration: none;
 }
